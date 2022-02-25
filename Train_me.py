@@ -75,8 +75,6 @@ def train_me(id, name):
 print("Please wait...your image is being trained")
 
 ###################################################################################
-"""After taking your pictures, sir please train yousef here"""
-###################################################################################
 #uncomment below lines to train yourself
 
 # before train yourself make sure to take images by running capture images
